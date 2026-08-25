@@ -7,3 +7,5 @@
 # Resultados gerados pelo pipeline
 results/
 *.rds
+
+metadata/*.csv
