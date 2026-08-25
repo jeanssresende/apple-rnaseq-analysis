@@ -1,0 +1,20 @@
+
+--- Iniciando Módulo 10 ---
+Data/Hora: 2026-08-25 05:49:16 
+
+--- Carregando objeto gse ---
+ERRO: Arquivo não encontrado: /media/jean/hd500/mentoria_larissa/github_repositorio/apple-rnaseq-analysis/results/tximeta/gse_with_metadata.rds 
+✓ Objeto carregado com sucesso
+
+--- DIMENSÕES DO OBJETO ---
+Genes: 40601 
+Amostras: 30 
+Assays disponíveis: 3 
+Nomes dos assays: counts, abundance, length 
+
+--- METADATA (colData) ---
+
+--- Iniciando Módulo 10 ---
+Data/Hora: 2026-08-25 05:50:50 
+
+--- Carregando objeto gse ---
